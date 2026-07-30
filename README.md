@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Samuvel Rajappa J
+# Hi there 👋, 
+# I'm Samuvel Rajappa J
 
 ## Assistant Professor | Programmer | Trainer | Mentor
 #### "Teaching inspires minds. Technology empowers them."
