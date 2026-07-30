@@ -69,9 +69,9 @@ I'm an Assistant Professor at KGiSL Institute of Technology with experience in S
 <a href="mailto:samuvel.r@kgkite.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 <a href="https://www.linkedin.com/in/samuvel-rajappa/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 <a href="https://github.com/samuvelrajappa"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://x.com/samuvelrajappa"><img src="https://cdn.simpleicons.org/x" height="45"/></a>
 <a href="https://leetcode.com/u/samuvelrajappa/"><img src="https://cdn.simpleicons.org/leetcode" height="45"/></a>
 <a href="https://www.hackerrank.com/profile/samuvelrajappa"><img src="https://cdn.simpleicons.org/hackerrank" height="45"/></a>
-<a href="https://x.com/samuvelrajappa"><img src="https://cdn.simpleicons.org/x" height="45"/></a>
 </p>
 
 ---
