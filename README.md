@@ -1,9 +1,18 @@
-# Hi there 👋, 
-# I'm Samuvel Rajappa J
+<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">I'm Samuvel Rajappa</h1>
 
-## Assistant Professor | Programmer | Trainer | Mentor
-#### "Teaching inspires minds. Technology empowers them."
+<h3><p align="center">
+Assistant Professor | Programmer | Trainer | Mentor
+</p></h3>
+<h4><p align="center">
+"Teaching inspires minds. Technology empowers them."
+</p></h4>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=samuvelrajappa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/samuvelrajappa?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/samuvelrajappa?affiliations=OWNER&style=for-the-badge"/>
+</p>
 I'm an Assistant Professor at KGiSL Institute of Technology with experience in Software Engineer and Programming. I'm passionate about teaching, automation testing, Python development, cloud computing, and helping students build industry-ready skills.
 
 ---
@@ -73,11 +82,6 @@ I'm an Assistant Professor at KGiSL Institute of Technology with experience in S
 <a href="https://leetcode.com/u/samuvelrajappa/"><img src="https://cdn.simpleicons.org/leetcode" height="45"/></a>
 <a href="https://www.hackerrank.com/profile/samuvelrajappa"><img src="https://cdn.simpleicons.org/hackerrank" height="45"/></a>
 </p>
-
----
-## Profile Views
-
-![](https://komarev.com/ghpvc/?username=samuvelrajappa&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
