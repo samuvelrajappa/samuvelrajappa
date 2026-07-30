@@ -56,12 +56,6 @@ I'm an Assistant Professor at KGiSL Institute of Technology with experience in S
 
 ---
 
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samuvelrajappa&theme=onedark&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 💻 Tech Stack
 
 <p align="left">
