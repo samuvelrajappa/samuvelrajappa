@@ -68,7 +68,7 @@ I'm an Assistant Professor at KGiSL Institute of Technology with experience in S
 ## 💻 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,htmx,pycharm,py,c,cpp,java,fastapi,react,html,css,js,mysql,git,aws,vscode,selenium" />
+<img src="https://skillicons.dev/icons?i=htmx,pycharm,py,c,cpp,java,fastapi,react,html,css,js,mysql,git,aws,vscode,selenium" />
 </p>
 
 ---
