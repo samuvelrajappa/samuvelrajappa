@@ -70,9 +70,6 @@ Python Essentials 1
 </a>
 </td>
 
-</tr>
-
-<tr>
 
 <td align="center" width="220">
 <a href="https://www.kaggle.com/learn/certification/samuvelrajappa/intro-to-programming" target="_blank">
@@ -82,6 +79,10 @@ Python Essentials 1
 Intro to Programming
 </a>
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="220">
 <a href="https://www.udemy.com/certificate/UC-463baef2-5472-4391-b5d8-034686b838a8/" target="_blank">
@@ -101,10 +102,6 @@ Python
 </a>
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="220">
 <a href="https://www.hackerrank.com/certificates/iframe/8df14aaa7d4b" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
@@ -123,6 +120,10 @@ Problem Solving (Basic)
 </a>
 </td>
 
+</tr>
+
+<tr>
+
 <td align="center" width="220">
 <a href="https://www.hackerrank.com/certificates/iframe/5000b82e37f5" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
@@ -132,9 +133,7 @@ Problem Solving (Intermediate)
 </a>
 </td>
 
-</tr>
 
-<tr>
 <td align="center" width="220">
 <a href="https://www.coursera.org/account/accomplishments/verify/RPFPV3FYBEYW" target="_blank">
 <img src="https://cdn.simpleicons.org/Google/20BEFF" width="60"><br><br>
