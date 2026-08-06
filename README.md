@@ -172,20 +172,13 @@ Python • 4★ Silver
 
 ---
 
-<h2 align="center">🏆 LeetCode Progress</h2>
+## 🚀 LeetCode
 
 <p align="center">
-<a href="https://leetcode.com/u/samuvelrajappa/">
-<img src="https://github-readme-leetcode-stats.vercel.app/api/card?username=samuvelrajappa&theme=dark&border_radius=18"/>
-</a>
+<img src="https://github-readme-leetcode-card.romitsagu.com/samuvelrajappa?theme=dark&show=graph,recent"/>
 </p>
 
-<p align="center">
-<a href="https://leetcode.com/u/samuvelrajappa/">
-<img src="https://img.shields.io/badge/View%20Profile-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-</p>
-
+---
 
 ## GitHub Streak
 
