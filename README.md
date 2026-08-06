@@ -40,6 +40,131 @@ I'm an Assistant Professor at KGiSL Institute of Technology with experience in S
 
 ## Certifications
 
+<table>
+<tr>
+
+<td align="center" width="220">
+<a href="https://drive.google.com/file/d/1qI0hAu_d0AHMN2G8uDHhCcbgZdaAPPkn/view" target="_blank">
+<img src="https://img.shields.io/badge/Simplilearn-Certificate-FF6F00" width="120"><br><br>
+
+<b>AWS Certified</b><br>
+Solutions Architect – Associate
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.credly.com/badges/7acf1b5d-b6c4-4677-92d0-8b79e6979990/linked_in_profile" target="_blank">
+<img src="https://cdn.simpleicons.org/cisco/0056D2" width="60"><br><br>
+
+<b>Coursera</b><br>
+Networking Essentials
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.credly.com/badges/d372c5c0-9dfb-4aa0-bd65-2eb748f8501d" target="_blank">
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="60"><br><br>
+
+<b>Cisco Networking Academy</b><br>
+Python Essentials 1
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<a href="https://www.kaggle.com/learn/certification/samuvelrajappa/intro-to-programming" target="_blank">
+<img src="https://cdn.simpleicons.org/kaggle/1BA0D7" width="60"><br><br>
+
+<b>Kaggle</b><br>
+Intro to Programming
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.udemy.com/certificate/UC-463baef2-5472-4391-b5d8-034686b838a8/" target="_blank">
+<img src="https://cdn.simpleicons.org/udemy/20BEFF" width="60"><br><br>
+
+<b>Udemy</b><br>
+Python Programming for Beginners: Learn Python from Scratch
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.kaggle.com/learn/certification/samuvelrajappa/python" target="_blank">
+<img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="60"><br><br>
+
+<b>Kaggle</b><br>
+Python
+</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="220">
+<a href="https://www.hackerrank.com/certificates/iframe/8df14aaa7d4b" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
+
+<b>HackerRank</b><br>
+Python (Basic)
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.hackerrank.com/certificates/iframe/8df14aaa7d4b" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
+
+<b>HackerRank</b><br>
+Problem Solving (Basic)
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.hackerrank.com/certificates/iframe/5000b82e37f5" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
+
+<b>HackerRank</b><br>
+Problem Solving (Intermediate)
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="220">
+<a href="https://www.coursera.org/account/accomplishments/verify/RPFPV3FYBEYW" target="_blank">
+<img src="https://cdn.simpleicons.org/Google/20BEFF" width="60"><br><br>
+
+<b>Coursera</b><br>
+Introduction to Git and GitHub
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.coursera.org/account/accomplishments/verify/CK6FXU8NTC3A" target="_blank">
+<img src="https://cdn.simpleicons.org/coursera/20BEFF" width="60"><br><br>
+
+<b>Coursera</b><br>
+Getting Started with Git and GitHub
+</a>
+</td>
+
+<td align="center" width="220">
+<a href="https://www.hackerrank.com/profile/samuvelrajappa" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
+
+<b>HackerRank</b><br>
+Python • 4★ Silver
+</a>
+</td>
+
+</tr>
+</table>
+
 - Coursera - Git & GitHub
 - Cisco Python Essentials 1 & 2 
 - Cisco Networking
