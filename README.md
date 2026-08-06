@@ -165,14 +165,6 @@ Python • 4★ Silver
 </tr>
 </table>
 
-- Coursera - Git & GitHub
-- Cisco Python Essentials 1 & 2 
-- Cisco Networking
-- HackerRank Python (Basic & Intermediate)
-- Kaggle Python
-- Kaggle Intro to Programming
-- AWS Solution Architect Associate
-
 ---
 
 ## Contribution Graph
