@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 </h1>
+<h1 align="center">Hi there 😄 </h1>
 <h1 align="center">I'm Samuvel Rajappa J</h1>
 
 <h3><p align="center">
@@ -172,7 +172,7 @@ Python • 4★ Silver
 
 ---
 
-## 🚀 LeetCode
+## LeetCode
 
 <p align="center">
 <img src="https://github-readme-leetcode-card.romitsagu.com/samuvelrajappa?theme=dark&show=graph,recent"/>
