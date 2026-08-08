@@ -157,7 +157,7 @@ Getting Started with Git and GitHub
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
 
 <b>HackerRank</b><br>
-Python • 4★ Silver
+Python • 5★ Gold
 </a>
 </td>
 
