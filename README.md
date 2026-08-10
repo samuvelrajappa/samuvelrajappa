@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 😄 </h1>
-<h1 align="center">I'm Samuvel Rajappa J</h1>
+<h1 align="center">This is Samuvel Rajappa J</h1>
 
 <h3><p align="center">
 Assistant Professor | Programmer | Trainer | Mentor
