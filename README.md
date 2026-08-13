@@ -56,7 +56,7 @@ Solutions Architect – Associate
 <a href="https://www.credly.com/badges/7acf1b5d-b6c4-4677-92d0-8b79e6979990/linked_in_profile" target="_blank">
 <img src="https://cdn.simpleicons.org/cisco/0056D2" width="60"><br><br>
 
-<b>Coursera</b><br>
+<b>Cisco Networking Academy</b><br>
 Networking Essentials
 </a>
 </td>
