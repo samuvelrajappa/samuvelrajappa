@@ -156,8 +156,8 @@ Getting Started with Git and GitHub
 <a href="https://www.hackerrank.com/profile/samuvelrajappa" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="60"><br><br>
 
-<b>HackerRank</b><br>
-Python • 5★ Gold
+<b>HackerRank Profile</b><br>
+Python • 5★ Gold | Completed 30 Days of Code • 5★ Gold
 </a>
 </td>
 
